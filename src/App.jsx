@@ -1,3 +1,10 @@
+import { ResetCss } from './styles/reset';
+
 export function App() {
-  return <h1>Beach Buddy</h1>;
+  return (
+    <>
+      <ResetCss />
+      <h1>Beach Buddy</h1>
+    </>
+  );
 }
