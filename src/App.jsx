@@ -1,5 +1,3 @@
-export const App = () => (
-  <>
-    <h1>Beach Buddy</h1>
-  </>
-)
+export function App() {
+  return <h1>Beach Buddy</h1>;
+}
