@@ -6,12 +6,12 @@ export const ResetCss = createGlobalStyle`
       padding: 0;
       box-sizing: border-box;
       font-family: 'Lato', sans-serif;
-      color: black;
+      color: #111;
   }
   html, body {
       font-size: 62.5%;
       overflow-x: hidden;
-      background-color: white;
+      background-color: #FBF9FF;
   }
   button {
       cursor: pointer;
