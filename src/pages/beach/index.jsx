@@ -1,3 +1,4 @@
+import { useParams } from 'react-router-dom';
 import share from '../../assets/share.svg';
 import heart from '../../assets/heart.svg';
 import star1 from '../../assets/star_1.svg';
@@ -10,14 +11,21 @@ import * as S from './styles';
 import { Rating } from '../../components/rating';
 import { Comment } from '../../components/comment';
 import { Partner } from '../../components/partner';
+import beaches from '../../constants/beaches.json';
 
 export function BeachPage() {
+  const { id } = useParams();
+
+  const data = beaches[id];
+
   return (
     <>
       <Header active={0} />
       <S.Wrapper>
         <S.Row>
-          <S.Title>Praia do Tigre - Ubatuba - SP</S.Title>
+          <S.Title>
+            {data.name} - {data.city} - {data.state}
+          </S.Title>
 
           <S.Column>
             <S.HeadLink>
@@ -53,29 +61,10 @@ export function BeachPage() {
           <S.MediumImage src="https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/medium.jpg" />
 
           <S.DescriptionWrapper>
-            <S.DescriptionTitle>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-            </S.DescriptionTitle>
+            <S.DescriptionTitle>{data.descriptionTitle}</S.DescriptionTitle>
 
             <S.Description>
-              <S.Description>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras porttitor ultricies
-                convallis. Praesent feugiat fermentum augue, ac congue orci mattis et. Ut metus
-                ligula, finibus sed erat eu, tincidunt tristique enim. Nulla quis feugiat sem, eget
-                egestas nulla. Suspendisse viverra neque vel volutpat tempus. In justo dolor,
-                elementum eget sem at, pretium ornare mauris. <br /> <br />
-                Morbi elementum lectus et metus pretium suscipit.Donec dignissim viverra ipsum,
-                vitae vestibulum ante hendrerit nec. Vestibulum ante ipsum primis in faucibus orci
-                luctus et ultrices posuere cubilia curae; Duis sed fringilla nibh. Etiam consectetur
-                malesuada auctor. Nullam feugiat ligula mi. Integer suscipit aliquet mauris et
-                consectetur. Sed urna quam, vehicula eleifend egestas vitae, porttitor egestas est.
-                Duis eleifend scelerisque sapien. <br /> <br />
-                Pellentesque non sagittis lorem. Nunc at semper nulla. Curabitur nec quam orci.
-                Suspendisse potenti. Vestibulum bibendum neque rutrum libero tristique, quis
-                imperdiet odio dapibus. Donec finibus, purus vel lobortis venenatis, ex mi malesuada
-                risus, sed faucibus mauris nulla ac tellus. Cras sollicitudin bibendum hendrerit.
-                Nulla facilisi.
-              </S.Description>
+              <S.Description>{data.description}</S.Description>
             </S.Description>
           </S.DescriptionWrapper>
         </S.ImagesWrapper>
@@ -87,37 +76,60 @@ export function BeachPage() {
             <S.ContentHeader>
               <S.RatingWrapper>
                 <S.Star1 src={star1} />
-                <S.Rating>4,96</S.Rating>
+                <S.Rating>{data.rating}</S.Rating>
                 <S.Star2 src={star2} />
               </S.RatingWrapper>
-              <S.RatingDescriptionWrapper>
-                <S.RatingTitle>Preferido dos viajantes</S.RatingTitle>
-                <S.RatingDescription>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras porttitor ultricies
-                  convallis.
-                </S.RatingDescription>
-              </S.RatingDescriptionWrapper>
+              {data.isFavorite && (
+                <S.RatingDescriptionWrapper>
+                  <S.RatingTitle>Preferido dos viajantes</S.RatingTitle>
+                  <S.RatingDescription>{data.ratingSubtitle}</S.RatingDescription>
+                </S.RatingDescriptionWrapper>
+              )}
             </S.ContentHeader>
             <S.RatingList>
-              <Rating />
-              <Rating />
-              <Rating />
-              <Rating />
-              <Rating />
+              <Rating
+                title="Alimentação"
+                rate={data.ratings.food}
+                image="https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Icons/alimentacao.svg"
+              />
+              <Rating
+                title="Limpeza"
+                rate={data.ratings.cleanning}
+                image="https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Icons/cleanning.svg"
+              />
+              <Rating
+                title="Localização"
+                rate={data.ratings.location}
+                image="https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Icons/localizacao.svg"
+              />
+              <Rating
+                title="Preço"
+                rate={data.ratings.price}
+                image="https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Icons/preco.svg"
+              />
+              <Rating
+                title="Serviços"
+                rate={data.ratings.services}
+                image="https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Icons/servicos.svg"
+              />
             </S.RatingList>
             <S.CommentList>
-              <Comment />
-              <Comment />
-              <Comment />
-              <Comment />
-              <Comment />
+              {data.comments.map((c) => (
+                <Comment
+                  name={c.name}
+                  city={c.location}
+                  days={c.days}
+                  daysSpent={c.daysSpent}
+                  comment={c.comment}
+                />
+              ))}
             </S.CommentList>
             <S.PartnersWrapper>
-              <S.PartnersTitle>Conheca nossos parceiros</S.PartnersTitle>
+              <S.PartnersTitle>Conheça nossos parceiros</S.PartnersTitle>
               <S.PartnersList>
-                <Partner />
-                <Partner />
-                <Partner />
+                {data.partners.map((p) => (
+                  <Partner title={p.name} discount={p.discount} />
+                ))}
               </S.PartnersList>
             </S.PartnersWrapper>
           </S.Content>

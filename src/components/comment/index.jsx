@@ -4,7 +4,9 @@ export function Comment({ name, city, days, daysSpent, comment }) {
   return (
     <S.Wrapper>
       <S.Header>
-        <S.Image src="https://ui-avatars.com/api/?name=John+Doe&background=random" />
+        <S.Image
+          src={`https://ui-avatars.com/api/?name=${name.replace(' ', '+')}&background=random`}
+        />
         <S.Column>
           <S.Name>{name}</S.Name>
           <S.City>{city}</S.City>

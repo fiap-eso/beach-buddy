@@ -1,11 +1,11 @@
 import * as S from './styles';
 
-export function Rating() {
+export function Rating({ title, rate, image }) {
   return (
     <S.Wrapper>
-      <S.Title>Limpeza</S.Title>
-      <S.Rate>4,9</S.Rate>
-      <S.Image src="https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Icons/alimentacao.svg" />
+      <S.Title>{title}</S.Title>
+      <S.Rate>{rate}</S.Rate>
+      <S.Image src={image} />
     </S.Wrapper>
   );
 }

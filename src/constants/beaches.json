@@ -1,0 +1,837 @@
+[
+  {
+    "id": "1",
+    "name": "Praia do Tigre",
+    "city": "Ubatuba",
+    "state": "SP",
+    "country": "Brasil",
+    "subtitle": "Ótima praia para casais",
+    "rating": 4.96,
+    "isFavorite": true,
+    "descriptionTitle": "Piscina natural que encanta a todos que conhecem",
+    "description": "A Praia do Tigre é famosa por sua beleza natural e águas cristalinas. Localizada em Ubatuba, SP, Brasil, é um destino popular para casais em busca de um refúgio romântico. A principal atração da praia é sua piscina natural, perfeita para mergulhos relaxantes. Além disso, os visitantes podem desfrutar de uma atmosfera tranquila e uma paisagem deslumbrante.",
+    "ratings": {
+      "cleanning": 4.9,
+      "location": 4.8,
+      "services": 4.7,
+      "price": 4.6,
+      "food": 4.5
+    },
+    "ratingSubtitle": "Os viajantes que vieram voltaram e recomendam",
+    "comments": [
+      {
+        "name": "Mathias Miguel",
+        "location": "Bahia, Brasil",
+        "days": 4,
+        "daysSpent": 7,
+        "comment": "A Praia do Tigre é simplesmente incrível! Passei 7 dias lá e gostaria de poder ficar mais tempo. A água é tão limpa e clara, e a atmosfera é tão relaxante. Definitivamente vou recomendar aos meus amigos e voltar sempre que puder!"
+      },
+      {
+        "name": "Carla Lima",
+        "location": "São Paulo, Brasil",
+        "days": 3,
+        "daysSpent": 5,
+        "comment": "Adorei a Praia do Tigre! Fui com meu parceiro e tivemos dias maravilhosos lá. A água é tão calma e quente, perfeita para nadar e relaxar. Os arredores também são lindos, com muita vegetação. Recomendo!"
+      },
+      {
+        "name": "Rafael Silva",
+        "location": "Rio de Janeiro, Brasil",
+        "days": 2,
+        "daysSpent": 4,
+        "comment": "Que lugar espetacular! Fiquei impressionado com a beleza natural da Praia do Tigre. A água é tão clara que parece um aquário natural. Além disso, os serviços disponíveis na praia são excelentes. Mal posso esperar para voltar!"
+      }
+    ],
+    "partners": [
+      {
+        "name": "Bar do Chico",
+        "discount": "Ganhe 10% de desconto ao trazer as latas e garrafas após o consumo."
+      },
+      {
+        "name": "Escola de Surf",
+        "discount": "10% de desconto em aulas de surf ao apresentar a avaliação da Praia do Tigre."
+      },
+      {
+        "name": "Restaurante Pé na Areia",
+        "discount": "Oferta especial: 15% de desconto em refeições para grupos de mais de 4 pessoas."
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Praia da Paz",
+    "city": "Florianópolis",
+    "state": "SC",
+    "country": "Brasil",
+    "subtitle": "Refúgio tranquilo em meio à natureza",
+    "rating": 4.85,
+    "isFavorite": false,
+    "descriptionTitle": "Um santuário de beleza natural",
+    "description": "Localizada em Florianópolis, SC, Brasil, a Praia da Paz é conhecida por ser um verdadeiro refúgio tranquilo em meio à natureza exuberante. Com suas águas cristalinas e areias brancas, é o local perfeito para relaxar e recarregar as energias. A praia oferece uma atmosfera serena e paisagens deslumbrantes, ideais para quem busca paz e tranquilidade.",
+    "ratings": {
+      "cleanning": 4.8,
+      "location": 4.9,
+      "services": 4.6,
+      "price": 4.7,
+      "food": 4.5
+    },
+    "ratingSubtitle": "Um refúgio para os amantes da natureza",
+    "comments": [
+      {
+        "name": "Ana Oliveira",
+        "location": "Porto Alegre, Brasil",
+        "days": 6,
+        "daysSpent": 8,
+        "comment": "A Praia da Paz é um verdadeiro paraíso na Terra! Passei 8 dias lá e não queria mais ir embora. A tranquilidade do lugar é incrível, e a beleza natural é de tirar o fôlego. Recomendo a todos que buscam paz e contato com a natureza."
+      },
+      {
+        "name": "Carlos Santos",
+        "location": "Curitiba, Brasil",
+        "days": 5,
+        "daysSpent": 7,
+        "comment": "Que lugar maravilhoso! Fiquei impressionado com a beleza da Praia da Paz. As águas são tão claras e calmas, perfeitas para nadar e relaxar. Além disso, a atmosfera tranquila torna o lugar ainda mais especial. Com certeza voltarei!"
+      },
+      {
+        "name": "Juliana Costa",
+        "location": "São Paulo, Brasil",
+        "days": 4,
+        "daysSpent": 6,
+        "comment": "Adorei a Praia da Paz! Fui com minha família e tivemos dias incríveis lá. A natureza ao redor é deslumbrante, e a paz que se sente é indescritível. Definitivamente um lugar para voltar sempre que possível."
+      }
+    ],
+    "partners": [
+      {
+        "name": "Quiosque da Paz",
+        "discount": "10% de desconto em todos os petiscos ao apresentar o check-in na Praia da Paz."
+      },
+      {
+        "name": "Escola de Mergulho Marinho",
+        "discount": "Oferta especial: 15% de desconto em cursos de mergulho para iniciantes."
+      },
+      {
+        "name": "Pousada da Paz",
+        "discount": "Reserve 3 noites e ganhe a 4ª de cortesia."
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Praia da Serenidade",
+    "city": "Trancoso",
+    "state": "BA",
+    "country": "Brasil",
+    "subtitle": "Um refúgio tranquilo no litoral baiano",
+    "rating": 4.92,
+    "isFavorite": true,
+    "descriptionTitle": "Um destino de paz e beleza natural",
+    "description": "A Praia da Serenidade, localizada em Trancoso, BA, Brasil, é conhecida por ser um refúgio tranquilo no litoral baiano. Com suas águas calmas e areias douradas, é o local perfeito para relaxar e aproveitar o contato com a natureza. A praia oferece uma atmosfera serena e paisagens deslumbrantes, ideais para quem busca paz e tranquilidade.",
+    "ratings": {
+      "cleanning": 4.9,
+      "location": 4.8,
+      "services": 4.7,
+      "price": 4.6,
+      "food": 4.5
+    },
+    "ratingSubtitle": "Um paraíso escondido no litoral baiano",
+    "comments": [
+      {
+        "name": "Marcela Oliveira",
+        "location": "Salvador, Brasil",
+        "days": 7,
+        "daysSpent": 10,
+        "comment": "A Praia da Serenidade é simplesmente incrível! Passei 10 dias lá e fiquei maravilhada com tanta beleza natural. As águas são tão cristalinas e calmas, perfeitas para nadar e relaxar. Com certeza voltarei sempre que puder!"
+      },
+      {
+        "name": "Paulo Silva",
+        "location": "Rio de Janeiro, Brasil",
+        "days": 5,
+        "daysSpent": 7,
+        "comment": "Que lugar fantástico! Fiquei impressionado com a tranquilidade da Praia da Serenidade. É o lugar perfeito para quem busca paz e contato com a natureza. Recomendo a todos que queiram se desconectar do mundo e relaxar verdadeiramente."
+      },
+      {
+        "name": "Camila Souza",
+        "location": "Brasília, Brasil",
+        "days": 4,
+        "daysSpent": 6,
+        "comment": "Adorei a Praia da Serenidade! Fui com minha família e tivemos dias incríveis lá. A beleza natural do lugar é indescritível, e a paz que se sente é contagiante. Com certeza um destino para voltar sempre que possível."
+      }
+    ],
+    "partners": [
+      {
+        "name": "Restaurante Mar Azul",
+        "discount": "10% de desconto em todas as refeições ao apresentar o check-in na Praia da Serenidade."
+      },
+      {
+        "name": "Escola de Stand Up Paddle",
+        "discount": "Oferta especial: 15% de desconto em aulas de stand up paddle para iniciantes."
+      },
+      {
+        "name": "Hotel da Praia",
+        "discount": "Reserve 4 noites e ganhe a 5ª de cortesia."
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Praia do Sol",
+    "city": "Jericoacoara",
+    "state": "CE",
+    "country": "Brasil",
+    "subtitle": "Um paraíso de sol e mar",
+    "rating": 4.88,
+    "isFavorite": true,
+    "descriptionTitle": "O destino perfeito para amantes do sol",
+    "description": "Localizada em Jericoacoara, CE, Brasil, a Praia do Sol é conhecida por suas paisagens deslumbrantes e clima ensolarado durante todo o ano. Com suas areias brancas e águas cristalinas, é o local ideal para quem busca relaxar e aproveitar o sol. A praia oferece uma atmosfera descontraída e diversas atividades para os visitantes.",
+    "ratings": {
+      "cleanning": 4.8,
+      "location": 4.9,
+      "services": 4.7,
+      "price": 4.6,
+      "food": 4.5
+    },
+    "ratingSubtitle": "Um destino de férias inesquecível",
+    "comments": [
+      {
+        "name": "Lucas Oliveira",
+        "location": "Fortaleza, Brasil",
+        "days": 6,
+        "daysSpent": 9,
+        "comment": "A Praia do Sol é simplesmente incrível! Passei 9 dias lá e não queria mais ir embora. O clima ensolarado e as águas cristalinas tornam o lugar ainda mais especial. Recomendo a todos que buscam férias inesquecíveis!"
+      },
+      {
+        "name": "Gabriela Santos",
+        "location": "Recife, Brasil",
+        "days": 5,
+        "daysSpent": 7,
+        "comment": "Que paraíso! Fiquei maravilhada com a beleza da Praia do Sol. O sol brilha o tempo todo, e as águas são tão claras que parecem um espelho. Além disso, a vibe descontraída do lugar é contagiante. Com certeza voltarei!"
+      },
+      {
+        "name": "Thiago Costa",
+        "location": "São Paulo, Brasil",
+        "days": 4,
+        "daysSpent": 6,
+        "comment": "Adorei a Praia do Sol! Fui com meus amigos e tivemos dias incríveis lá. A energia do lugar é contagiante, e as paisagens são deslumbrantes. Definitivamente um destino para voltar sempre que possível."
+      }
+    ],
+    "partners": [
+      {
+        "name": "Quiosque do Sol",
+        "discount": "10% de desconto em todos os petiscos ao apresentar o check-in na Praia do Sol."
+      },
+      {
+        "name": "Escola de Kitesurf",
+        "discount": "Oferta especial: 15% de desconto em aulas de kitesurf para iniciantes."
+      },
+      {
+        "name": "Pousada Sol Nascente",
+        "discount": "Reserve 5 noites e ganhe a 6ª de cortesia."
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Praia dos Coqueiros",
+    "city": "Trancoso",
+    "state": "BA",
+    "country": "Brasil",
+    "subtitle": "Um paraíso tropical com coqueirais exuberantes",
+    "rating": 4.75,
+    "isFavorite": false,
+    "descriptionTitle": "Belezas naturais e águas cristalinas",
+    "description": "A Praia dos Coqueiros, em Trancoso, BA, Brasil, é famosa por suas paisagens paradisíacas e águas cristalinas. Com seus coqueirais exuberantes e areias douradas, é o local ideal para quem busca tranquilidade e contato com a natureza. Além disso, a praia oferece diversas opções de atividades, como mergulho, stand up paddle e passeios de barco.",
+    "ratings": {
+      "cleanning": 4.7,
+      "location": 4.8,
+      "services": 4.6,
+      "price": 4.5,
+      "food": 4.4
+    },
+    "ratingSubtitle": "Um refúgio tropical para relaxar e aproveitar",
+    "comments": [
+      {
+        "name": "Laura Santos",
+        "location": "Rio de Janeiro, Brasil",
+        "days": 7,
+        "daysSpent": 10,
+        "comment": "A Praia dos Coqueiros é um verdadeiro paraíso! Passei 10 dias lá e não queria mais ir embora. As águas são tão claras e calmas, perfeitas para nadar e relaxar. Além disso, a vibe descontraída do lugar é contagiante. Com certeza voltarei!"
+      },
+      {
+        "name": "Pedro Oliveira",
+        "location": "São Paulo, Brasil",
+        "days": 5,
+        "daysSpent": 8,
+        "comment": "Que lugar incrível! Fiquei impressionado com a beleza da Praia dos Coqueiros. Os coqueirais são deslumbrantes, e as águas são tão cristalinas que parecem um espelho. Recomendo a todos que buscam férias inesquecíveis!"
+      }
+    ],
+    "partners": [
+      {
+        "name": "Restaurante Maré Alta",
+        "discount": "10% de desconto em todas as refeições ao apresentar o check-in na Praia dos Coqueiros."
+      },
+      {
+        "name": "Escola de Mergulho Coral Vivo",
+        "discount": "Oferta especial: 15% de desconto em cursos de mergulho para iniciantes."
+      },
+      {
+        "name": "Hotel Paraíso Tropical",
+        "discount": "Reserve 4 noites e ganhe a 5ª de cortesia."
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Praia do Sol",
+    "city": "Jericoacoara",
+    "state": "CE",
+    "country": "Brasil",
+    "subtitle": "Um paraíso de sol e mar",
+    "rating": 4.88,
+    "isFavorite": true,
+    "descriptionTitle": "O destino perfeito para amantes do sol",
+    "description": "Localizada em Jericoacoara, CE, Brasil, a Praia do Sol é conhecida por suas paisagens deslumbrantes e clima ensolarado durante todo o ano. Com suas areias brancas e águas cristalinas, é o local ideal para quem busca relaxar e aproveitar o sol. A praia oferece uma atmosfera descontraída e diversas atividades para os visitantes.",
+    "ratings": {
+      "cleanning": 4.8,
+      "location": 4.9,
+      "services": 4.7,
+      "price": 4.6,
+      "food": 4.5
+    },
+    "ratingSubtitle": "Um destino de férias inesquecível",
+    "comments": [
+      {
+        "name": "Lucas Oliveira",
+        "location": "Fortaleza, Brasil",
+        "days": 6,
+        "daysSpent": 9,
+        "comment": "A Praia do Sol é simplesmente incrível! Passei 9 dias lá e não queria mais ir embora. O clima ensolarado e as águas cristalinas tornam o lugar ainda mais especial. Recomendo a todos que buscam férias inesquecíveis!"
+      },
+      {
+        "name": "Gabriela Santos",
+        "location": "Recife, Brasil",
+        "days": 5,
+        "daysSpent": 7,
+        "comment": "Que paraíso! Fiquei maravilhada com a beleza da Praia do Sol. O sol brilha o tempo todo, e as águas são tão claras que parecem um espelho. Além disso, a vibe descontraída do lugar é contagiante. Com certeza voltarei!"
+      },
+      {
+        "name": "Thiago Costa",
+        "location": "São Paulo, Brasil",
+        "days": 4,
+        "daysSpent": 6,
+        "comment": "Adorei a Praia do Sol! Fui com meus amigos e tivemos dias incríveis lá. A energia do lugar é contagiante, e as paisagens são deslumbrantes. Definitivamente um destino para voltar sempre que possível."
+      }
+    ],
+    "partners": [
+      {
+        "name": "Quiosque do Sol",
+        "discount": "10% de desconto em todos os petiscos ao apresentar o check-in na Praia do Sol."
+      },
+      {
+        "name": "Escola de Kitesurf",
+        "discount": "Oferta especial: 15% de desconto em aulas de kitesurf para iniciantes."
+      },
+      {
+        "name": "Pousada Sol Nascente",
+        "discount": "Reserve 5 noites e ganhe a 6ª de cortesia."
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Praia das Tartarugas",
+    "city": "Fernando de Noronha",
+    "state": "PE",
+    "country": "Brasil",
+    "subtitle": "Um santuário marinho para tartarugas",
+    "rating": 4.95,
+    "isFavorite": true,
+    "descriptionTitle": "Beleza natural preservada",
+    "description": "Localizada em Fernando de Noronha, PE, Brasil, a Praia das Tartarugas é conhecida por ser um santuário marinho para tartarugas. Com suas águas cristalinas e vida marinha diversificada, é o local ideal para quem busca mergulhar e explorar a natureza. Além disso, a praia oferece uma atmosfera tranquila e paisagens deslumbrantes.",
+    "ratings": {
+      "cleanning": 4.9,
+      "location": 4.9,
+      "services": 4.8,
+      "price": 4.7,
+      "food": 4.6
+    },
+    "ratingSubtitle": "Um paraíso para os amantes da vida marinha",
+    "comments": [
+      {
+        "name": "Pedro Henrique",
+        "location": "Recife, Brasil",
+        "days": 7,
+        "daysSpent": 10,
+        "comment": "A Praia das Tartarugas é um lugar mágico! Passei 10 dias lá e me senti em um verdadeiro paraíso. As águas são tão claras que parecem um aquário, e a quantidade de tartarugas é impressionante. Recomendo a todos os amantes da natureza!"
+      },
+      {
+        "name": "Isabela Ferreira",
+        "location": "Rio de Janeiro, Brasil",
+        "days": 6,
+        "daysSpent": 8,
+        "comment": "Que experiência incrível! Fiquei maravilhada com a beleza da Praia das Tartarugas. As tartarugas são tão dóceis e nadam tão perto da costa que é possível vê-las claramente. Definitivamente um destino para voltar sempre que possível!"
+      }
+    ],
+    "partners": [
+      {
+        "name": "Restaurante Marítimo",
+        "discount": "10% de desconto em todas as refeições ao apresentar o check-in na Praia das Tartarugas."
+      },
+      {
+        "name": "Passeios de Mergulho Aquamar",
+        "discount": "Oferta especial: 15% de desconto em passeios de mergulho para explorar o santuário marinho."
+      },
+      {
+        "name": "Pousada das Tartarugas",
+        "discount": "Reserve 4 noites e ganhe a 5ª de cortesia."
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Praia dos Amores",
+    "city": "Búzios",
+    "state": "RJ",
+    "country": "Brasil",
+    "subtitle": "Romance à beira-mar",
+    "rating": 4.82,
+    "isFavorite": true,
+    "descriptionTitle": "Um refúgio romântico",
+    "description": "Localizada em Búzios, RJ, Brasil, a Praia dos Amores é conhecida por ser um refúgio romântico à beira-mar. Com suas águas calmas e areias brancas, é o local perfeito para casais em busca de momentos especiais. A praia oferece uma atmosfera tranquila e paisagens deslumbrantes, ideais para passeios românticos ao pôr do sol.",
+    "ratings": {
+      "cleanning": 4.8,
+      "location": 4.8,
+      "services": 4.7,
+      "price": 4.6,
+      "food": 4.5
+    },
+    "ratingSubtitle": "Um destino romântico para casais apaixonados",
+    "comments": [
+      {
+        "name": "Fernanda Oliveira",
+        "location": "São Paulo, Brasil",
+        "days": 5,
+        "daysSpent": 7,
+        "comment": "A Praia dos Amores é simplesmente encantadora! Fui com meu parceiro e tivemos dias maravilhosos lá. A tranquilidade do lugar é perfeita para momentos a dois, e a beleza natural é de tirar o fôlego. Recomendo!"
+      },
+      {
+        "name": "Ricardo Silva",
+        "location": "Rio de Janeiro, Brasil",
+        "days": 4,
+        "daysSpent": 6,
+        "comment": "Que lugar romântico! Fiquei impressionado com a beleza da Praia dos Amores. As águas são tão calmas e cristalinas, e a atmosfera é tão tranquila que é impossível não se apaixonar. Com certeza um destino para voltar sempre que possível!"
+      }
+    ],
+    "partners": [
+      {
+        "name": "Restaurante Lua Cheia",
+        "discount": "10% de desconto em um jantar romântico à luz de velas ao apresentar o check-in na Praia dos Amores."
+      },
+      {
+        "name": "Passeios de Veleiro Love Boat",
+        "discount": "Oferta especial: 15% de desconto em passeios de veleiro privativo para casais."
+      },
+      {
+        "name": "Pousada Amor Perfeito",
+        "discount": "Reserve 3 noites e ganhe a 4ª de cortesia."
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Praia da Esperança",
+    "city": "Itacaré",
+    "state": "BA",
+    "country": "Brasil",
+    "subtitle": "Um refúgio de tranquilidade e beleza natural",
+    "rating": 4.90,
+    "isFavorite": true,
+    "descriptionTitle": "Um paraíso escondido na costa baiana",
+    "description": "Localizada em Itacaré, BA, Brasil, a Praia da Esperança é um verdadeiro refúgio de tranquilidade e beleza natural. Com suas águas cristalinas e vegetação exuberante, é o local ideal para quem busca se reconectar com a natureza. A praia oferece uma atmosfera serena e paisagens deslumbrantes, ideais para relaxar e recarregar as energias.",
+    "ratings": {
+      "cleanning": 4.9,
+      "location": 4.8,
+      "services": 4.7,
+      "price": 4.6,
+      "food": 4.5
+    },
+    "ratingSubtitle": "Um tesouro escondido na costa baiana",
+    "comments": [
+      {
+        "name": "Gabriel Lima",
+        "location": "Salvador, Brasil",
+        "days": 7,
+        "daysSpent": 10,
+        "comment": "A Praia da Esperança é simplesmente incrível! Passei 10 dias lá e foi uma experiência transformadora. A tranquilidade do lugar é contagiante, e a beleza natural é de tirar o fôlego. Recomendo a todos que buscam paz e contato com a natureza."
+      },
+      {
+        "name": "Larissa Silva",
+        "location": "São Paulo, Brasil",
+        "days": 6,
+        "daysSpent": 8,
+        "comment": "Que lugar maravilhoso! Fiquei encantada com a beleza da Praia da Esperança. As águas são tão claras e calmas, perfeitas para nadar e relaxar. Além disso, a vegetação ao redor é deslumbrante. Com certeza voltarei sempre que possível!"
+      }
+    ],
+    "partners": [
+      {
+        "name": "Restaurante Sol e Mar",
+        "discount": "10% de desconto em todas as refeições ao apresentar o check-in na Praia da Esperança."
+      },
+      {
+        "name": "Passeios de Caiaque Ecoventura",
+        "discount": "Oferta especial: 15% de desconto em passeios de caiaque para explorar os manguezais locais."
+      },
+      {
+        "name": "Pousada Esperança do Mar",
+        "discount": "Reserve 4 noites e ganhe a 5ª de cortesia."
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Praia do Sonho",
+    "city": "Bombinhas",
+    "state": "SC",
+    "country": "Brasil",
+    "subtitle": "Um paraíso tropical com águas cristalinas",
+    "rating": 4.85,
+    "isFavorite": true,
+    "descriptionTitle": "Um destino de férias inesquecíveis",
+    "description": "Localizada em Bombinhas, SC, Brasil, a Praia do Sonho é conhecida por suas águas cristalinas e areias brancas. Com sua atmosfera descontraída e paisagens deslumbrantes, é o local perfeito para férias em família ou com amigos. A praia oferece diversas opções de lazer, como mergulho, trilhas e passeios de barco.",
+    "ratings": {
+      "cleanning": 4.9,
+      "location": 4.8,
+      "services": 4.7,
+      "price": 4.6,
+      "food": 4.5
+    },
+    "ratingSubtitle": "Um destino paradisíaco no litoral catarinense",
+    "comments": [
+      {
+        "name": "Luciana Oliveira",
+        "location": "Florianópolis, Brasil",
+        "days": 7,
+        "daysSpent": 10,
+        "comment": "A Praia do Sonho é um verdadeiro paraíso! Passei 10 dias lá e foi uma experiência incrível. As águas são tão claras e calmas, perfeitas para nadar e relaxar. Além disso, a vibe descontraída do lugar é contagiante. Recomendo!"
+      },
+      {
+        "name": "Fernando Santos",
+        "location": "Porto Alegre, Brasil",
+        "days": 6,
+        "daysSpent": 8,
+        "comment": "Que lugar incrível! Fiquei maravilhado com a beleza da Praia do Sonho. As águas são tão transparentes que é possível ver os peixes nadando ao redor. Definitivamente um destino para voltar sempre que possível!"
+      }
+    ],
+    "partners": [
+      {
+        "name": "Quiosque do Sonho",
+        "discount": "10% de desconto em todos os petiscos ao apresentar o check-in na Praia do Sonho."
+      },
+      {
+        "name": "Passeios de Barco Mar de Emoções",
+        "discount": "Oferta especial: 15% de desconto em passeios de barco para explorar as ilhas da região."
+      },
+      {
+        "name": "Hotel Sonhos do Mar",
+        "discount": "Reserve 4 noites e ganhe a 5ª de cortesia."
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "name": "Praia do Encanto",
+    "city": "Ilha de Boipeba",
+    "state": "BA",
+    "country": "Brasil",
+    "subtitle": "Um paraíso preservado no litoral baiano",
+    "rating": 4.88,
+    "isFavorite": true,
+    "descriptionTitle": "Beleza natural intocada",
+    "description": "Localizada na Ilha de Boipeba, BA, Brasil, a Praia do Encanto é conhecida por sua beleza natural intocada e atmosfera tranquila. Com suas águas cristalinas e areias brancas, é o local ideal para quem busca relaxar e aproveitar a natureza. A praia oferece uma experiência autêntica e paisagens deslumbrantes, ideais para quem deseja se desconectar do mundo.",
+    "ratings": {
+      "cleanning": 4.9,
+      "location": 4.8,
+      "services": 4.7,
+      "price": 4.6,
+      "food": 4.5
+    },
+    "ratingSubtitle": "Um refúgio paradisíaco no litoral baiano",
+    "comments": [
+      {
+        "name": "Marcelo Nunes",
+        "location": "Salvador, Brasil",
+        "days": 7,
+        "daysSpent": 10,
+        "comment": "A Praia do Encanto é um verdadeiro paraíso! Passei 10 dias lá e foi uma experiência incrível. A tranquilidade do lugar é contagiante, e a beleza natural é de tirar o fôlego. Recomendo a todos que buscam paz e contato com a natureza."
+      },
+      {
+        "name": "Carla Silva",
+        "location": "São Paulo, Brasil",
+        "days": 6,
+        "daysSpent": 8,
+        "comment": "Que lugar maravilhoso! Fiquei encantada com a beleza da Praia do Encanto. As águas são tão claras e calmas, perfeitas para nadar e relaxar. Além disso, a vibe descontraída do lugar é contagiante. Com certeza voltarei sempre que possível!"
+      }
+    ],
+    "partners": [
+      {
+        "name": "Restaurante Pé na Areia",
+        "discount": "10% de desconto em todas as refeições ao apresentar o check-in na Praia do Encanto."
+      },
+      {
+        "name": "Passeios de Caiaque Ecoventura",
+        "discount": "Oferta especial: 15% de desconto em passeios de caiaque para explorar os manguezais locais."
+      },
+      {
+        "name": "Pousada Encanto do Mar",
+        "discount": "Reserve 4 noites e ganhe a 5ª de cortesia."
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "name": "Praia do Farol",
+    "city": "Arraial do Cabo",
+    "state": "RJ",
+    "country": "Brasil",
+    "subtitle": "Um paraíso intocado de águas cristalinas",
+    "rating": 4.95,
+    "isFavorite": true,
+    "descriptionTitle": "Beleza natural preservada",
+    "description": "Localizada em Arraial do Cabo, RJ, Brasil, a Praia do Farol é um verdadeiro paraíso intocado de águas cristalinas e areias brancas. Como parte de uma área de proteção ambiental, a praia oferece uma experiência única de contato com a natureza, ideal para quem busca tranquilidade e preservação ambiental. Com suas águas calmas e vida marinha abundante, é um destino imperdível para os amantes da natureza.",
+    "ratings": {
+      "cleanning": 4.9,
+      "location": 4.9,
+      "services": 4.8,
+      "price": 4.7,
+      "food": 4.6
+    },
+    "ratingSubtitle": "Um refúgio intocado no litoral fluminense",
+    "comments": [
+      {
+        "name": "Lucas Silva",
+        "location": "Rio de Janeiro, Brasil",
+        "days": 7,
+        "daysSpent": 10,
+        "comment": "A Praia do Farol é um verdadeiro paraíso! Passei 10 dias lá e foi uma experiência inesquecível. As águas são tão cristalinas que é possível ver os peixes nadando ao redor. Recomendo a todos que buscam paz e contato com a natureza."
+      },
+      {
+        "name": "Mariana Oliveira",
+        "location": "São Paulo, Brasil",
+        "days": 6,
+        "daysSpent": 8,
+        "comment": "Que lugar maravilhoso! Fiquei encantada com a beleza da Praia do Farol. A tranquilidade do lugar é contagiante, e a preservação ambiental é impressionante. Com certeza voltarei sempre que possível!"
+      }
+    ],
+    "partners": [
+      {
+        "name": "Restaurante Sol & Mar",
+        "discount": "10% de desconto em todas as refeições ao apresentar o check-in na Praia do Farol."
+      },
+      {
+        "name": "Passeios de Barco Mar Azul",
+        "discount": "Oferta especial: 15% de desconto em passeios de barco para explorar a região."
+      },
+      {
+        "name": "Pousada Farol do Cabo",
+        "discount": "Reserve 4 noites e ganhe a 5ª de cortesia."
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "name": "Praia do Espelho",
+    "city": "Trancoso",
+    "state": "BA",
+    "country": "Brasil",
+    "subtitle": "Uma joia escondida no litoral baiano",
+    "rating": 4.90,
+    "isFavorite": true,
+    "descriptionTitle": "Beleza natural deslumbrante",
+    "description": "Localizada em Trancoso, BA, Brasil, a Praia do Espelho é uma verdadeira joia escondida no litoral baiano. Com suas falésias coloridas, águas cristalinas e areias douradas, é o local perfeito para quem busca beleza natural e tranquilidade. A praia oferece uma atmosfera paradisíaca e paisagens deslumbrantes, ideais para relaxar e aproveitar o melhor que a natureza tem a oferecer.",
+    "ratings": {
+      "cleanning": 4.9,
+      "location": 4.8,
+      "services": 4.7,
+      "price": 4.6,
+      "food": 4.5
+    },
+    "ratingSubtitle": "Um paraíso escondido no sul da Bahia",
+    "comments": [
+      {
+        "name": "Juliana Santos",
+        "location": "São Paulo, Brasil",
+        "days": 7,
+        "daysSpent": 10,
+        "comment": "A Praia do Espelho é um verdadeiro paraíso! Passei 10 dias lá e foi uma experiência incrível. As falésias coloridas são deslumbrantes, e as águas são tão cristalinas que é possível ver os peixes nadando ao redor. Recomendo a todos que buscam beleza e tranquilidade."
+      },
+      {
+        "name": "Rafael Oliveira",
+        "location": "Rio de Janeiro, Brasil",
+        "days": 6,
+        "daysSpent": 8,
+        "comment": "Que lugar incrível! Fiquei impressionado com a beleza da Praia do Espelho. As paisagens são de tirar o fôlego, e a atmosfera é tão tranquila que é impossível não se apaixonar. Com certeza um destino para voltar sempre que possível!"
+      }
+    ],
+    "partners": [
+      {
+        "name": "Restaurante Espelho D'Água",
+        "discount": "10% de desconto em todas as refeições ao apresentar o check-in na Praia do Espelho."
+      },
+      {
+        "name": "Passeios de Quadriciclo Aventura",
+        "discount": "Oferta especial: 15% de desconto em passeios de quadriciclo pelas trilhas da região."
+      },
+      {
+        "name": "Pousada Charme do Espelho",
+        "discount": "Reserve 4 noites e ganhe a 5ª de cortesia."
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "name": "Praia da Pipa",
+    "city": "Tibau do Sul",
+    "state": "RN",
+    "country": "Brasil",
+    "subtitle": "Beleza natural e vibe única",
+    "rating": 4.85,
+    "isFavorite": true,
+    "descriptionTitle": "Um destino imperdível no litoral nordestino",
+    "description": "Localizada em Tibau do Sul, RN, Brasil, a Praia da Pipa é famosa por sua beleza natural deslumbrante e sua vibe única. Com suas falésias, piscinas naturais e águas cristalinas, é o local ideal para quem busca aventura e contato com a natureza. Além disso, a praia oferece uma atmosfera descontraída, com diversas opções de bares, restaurantes e lojas.",
+    "ratings": {
+      "cleanning": 4.9,
+      "location": 4.8,
+      "services": 4.7,
+      "price": 4.6,
+      "food": 4.5
+    },
+    "ratingSubtitle": "Um destino imperdível no litoral nordestino",
+    "comments": [
+      {
+        "name": "Ana Souza",
+        "location": "Natal, Brasil",
+        "days": 7,
+        "daysSpent": 10,
+        "comment": "A Praia da Pipa é simplesmente incrível! Passei 10 dias lá e foi uma experiência inesquecível. As paisagens são de tirar o fôlego, e a vibe do lugar é contagiante. Recomendo a todos que buscam aventura e diversão!"
+      },
+      {
+        "name": "Marcos Oliveira",
+        "location": "Recife, Brasil",
+        "days": 6,
+        "daysSpent": 8,
+        "comment": "Que lugar incrível! Fiquei maravilhado com a beleza da Praia da Pipa. As falésias são impressionantes, e as águas são tão cristalinas que é impossível resistir a um mergulho. Com certeza um destino para voltar sempre que possível!"
+      }
+    ],
+    "partners": [
+      {
+        "name": "Bar da Praia",
+        "discount": "10% de desconto em todas as refeições ao apresentar o check-in na Praia da Pipa."
+      },
+      {
+        "name": "Passeios de Buggy Adventure",
+        "discount": "Oferta especial: 15% de desconto em passeios de buggy pelas dunas e praias da região."
+      },
+      {
+        "name": "Pousada Charme da Pipa",
+        "discount": "Reserve 4 noites e ganhe a 5ª de cortesia."
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "name": "Praia de Jericoacoara",
+    "city": "Jijoca de Jericoacoara",
+    "state": "CE",
+    "country": "Brasil",
+    "subtitle": "Paraíso dos ventos e das dunas",
+    "rating": 4.88,
+    "isFavorite": true,
+    "descriptionTitle": "Um destino de beleza natural exuberante",
+    "description": "Localizada em Jijoca de Jericoacoara, CE, Brasil, a Praia de Jericoacoara é famosa por suas paisagens deslumbrantes, ventos constantes e dunas de areia. É um paraíso para os amantes de esportes aquáticos, como kitesurf e windsurf, e também oferece passeios de buggy pelas dunas e lagoas da região. Além disso, a vila de Jericoacoara tem uma atmosfera descontraída, com ótimas opções de restaurantes e vida noturna.",
+    "ratings": {
+      "cleanning": 4.9,
+      "location": 4.8,
+      "services": 4.7,
+      "price": 4.6,
+      "food": 4.5
+    },
+    "ratingSubtitle": "Um destino de beleza natural exuberante",
+    "comments": [
+      {
+        "name": "Fernanda Costa",
+        "location": "Fortaleza, Brasil",
+        "days": 7,
+        "daysSpent": 10,
+        "comment": "Jericoacoara é simplesmente incrível! Passei 10 dias lá e foi uma experiência única. As paisagens são de tirar o fôlego, e os ventos constantes são perfeitos para a prática de kitesurf. Recomendo a todos que buscam aventura e contato com a natureza!"
+      },
+      {
+        "name": "Ricardo Martins",
+        "location": "São Paulo, Brasil",
+        "days": 6,
+        "daysSpent": 8,
+        "comment": "Que lugar incrível! Fiquei maravilhado com a beleza de Jericoacoara. As dunas são imponentes, e as lagoas são um verdadeiro oásis. Além disso, a vila tem um clima super agradável, com ótimas opções de restaurantes e lojas. Com certeza um destino para voltar sempre que possível!"
+      }
+    ],
+    "partners": [
+      {
+        "name": "Restaurante Maré Alta",
+        "discount": "10% de desconto em todas as refeições ao apresentar o check-in na Praia de Jericoacoara."
+      },
+      {
+        "name": "Escola de Kitesurf Vento Bom",
+        "discount": "Oferta especial: 15% de desconto em aulas de kitesurf para iniciantes."
+      },
+      {
+        "name": "Pousada Pé na Areia",
+        "discount": "Reserve 4 noites e ganhe a 5ª de cortesia."
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "name": "Praia do Forte",
+    "city": "Mata de São João",
+    "state": "BA",
+    "country": "Brasil",
+    "subtitle": "Beleza natural e história",
+    "rating": 4.82,
+    "isFavorite": true,
+    "descriptionTitle": "Um destino encantador no litoral baiano",
+    "description": "Localizada em Mata de São João, BA, Brasil, a Praia do Forte é conhecida por sua beleza natural exuberante e sua rica história. Além das belas praias de areias brancas e águas cristalinas, a região abriga o Projeto Tamar, dedicado à preservação das tartarugas marinhas. Também é possível visitar o Castelo Garcia D'Ávila, uma fortaleza histórica construída no século XVI. A vila de Praia do Forte oferece uma atmosfera agradável, com ótimas opções de restaurantes e lojas.",
+    "ratings": {
+      "cleanning": 4.9,
+      "location": 4.8,
+      "services": 4.7,
+      "price": 4.6,
+      "food": 4.5
+    },
+    "ratingSubtitle": "Um destino encantador no litoral baiano",
+    "comments": [
+      {
+        "name": "Luciana Oliveira",
+        "location": "Salvador, Brasil",
+        "days": 7,
+        "daysSpent": 10,
+        "comment": "A Praia do Forte é um verdadeiro paraíso! Passei 10 dias lá e foi uma experiência incrível. As praias são lindas, e o Projeto Tamar é uma iniciativa maravilhosa. Recomendo a todos que buscam beleza, história e natureza!"
+      },
+      {
+        "name": "Rafael Santos",
+        "location": "São Paulo, Brasil",
+        "days": 6,
+        "daysSpent": 8,
+        "comment": "Que lugar incrível! Fiquei encantado com a beleza e história da Praia do Forte. As praias são deslumbrantes, e o Projeto Tamar é uma visita imperdível. Além disso, a vila tem um clima super agradável, com ótimas opções de restaurantes e lojas. Com certeza um destino para voltar sempre que possível!"
+      }
+    ],
+    "partners": [
+      {
+        "name": "Restaurante Maré Alta",
+        "discount": "10% de desconto em todas as refeições ao apresentar o check-in na Praia do Forte."
+      },
+      {
+        "name": "Projeto Tamar",
+        "discount": "Entrada gratuita na visita ao Projeto Tamar ao apresentar o check-in na Praia do Forte."
+      },
+      {
+        "name": "Pousada Fortaleza",
+        "discount": "Reserve 4 noites e ganhe a 5ª de cortesia."
+      }
+    ]
+  }  
+]

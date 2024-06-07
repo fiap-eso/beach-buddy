@@ -83,6 +83,7 @@ export const DescriptionWrapper = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: center;
   gap: 1.2rem;
 
   grid-column: 1 / 3;
@@ -93,7 +94,7 @@ export const Description = styled.span`
   max-width: 64rem;
 
   color: #111;
-  font-size: 1.2rem;
+  font-size: 1.6rem;
   font-weight: 400;
   text-align: center;
 `;
@@ -151,7 +152,7 @@ export const Content = styled.div`
   align-items: center;
   gap: 5.6rem;
 
-  padding: 5.6rem;
+  padding: 8rem;
 
   grid-column: 2 / 3;
   grid-row: 1 / 2;
