@@ -1,9 +1,12 @@
+import { useNavigate } from 'react-router-dom';
 import logo from '../../assets/logo_bb.svg';
 
 import * as S from './styles';
 import { AuthPageLayout } from '../../components/authPageLayout';
 
 export function SignupPage() {
+  const navigate = useNavigate();
+
   return (
     <AuthPageLayout>
       <S.Logo src={logo} />
@@ -38,11 +41,11 @@ export function SignupPage() {
           <S.Input placeholder="Digite seu senha..." />
         </S.InputGroup>
 
-        <S.Button>Entrar</S.Button>
+        <S.Button onClick={() => navigate('/signup-2')}>Entrar</S.Button>
       </S.Form>
 
       <S.BottomText>
-        Já tem uma conta? <S.Link>Acesse ela agora</S.Link>
+        Já tem uma conta? <S.Link onClick={() => navigate('/login')}>Acesse ela agora</S.Link>
       </S.BottomText>
 
       <S.Stepper>

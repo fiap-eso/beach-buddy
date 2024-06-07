@@ -1,4 +1,4 @@
-import { Link } from 'react-router-dom';
+import { useNavigate } from 'react-router-dom';
 import logo from '../../assets/logo_bb.svg';
 import googleLogo from '../../assets/google.png';
 import appleLogo from '../../assets/apple.png';
@@ -7,6 +7,8 @@ import * as S from './styles';
 import { AuthPageLayout } from '../../components/authPageLayout';
 
 export function LoginPage() {
+  const navigate = useNavigate();
+
   return (
     <AuthPageLayout>
       <S.Logo src={logo} />
@@ -23,30 +25,31 @@ export function LoginPage() {
 
         <S.InputGroup>
           <S.Label>Senha</S.Label>
-          <S.Input placeholder="Digite seu senha..." />
-          <Link to="/">
-            <S.Link>Esqueceu a senha?</S.Link>
-          </Link>
+          <S.Input placeholder="Digite seu senha..." type="password" />
+          <S.Link onClick={() => window.alert('Essa funcionalidade ainda nao foi implementada.')}>
+            Esqueceu a senha?
+          </S.Link>
         </S.InputGroup>
 
-        <S.Button>Entrar</S.Button>
+        <S.Button onClick={() => navigate('/')}>Entrar</S.Button>
       </S.Form>
 
       <S.Divider>ou</S.Divider>
 
       <S.Row>
-        <S.SocialButton>
+        <S.SocialButton onClick={() => navigate('/')}>
           <S.SocialIcon src={googleLogo} />
           Entre com Google
         </S.SocialButton>
-        <S.SocialButton>
+        <S.SocialButton onClick={() => navigate('/')}>
           <S.SocialIcon src={appleLogo} />
           Entre com Apple
         </S.SocialButton>
       </S.Row>
 
       <S.BottomText>
-        Ainda não tem uma conta? <S.Link>Faça seu cadastro</S.Link>
+        Ainda não tem uma conta?{' '}
+        <S.Link onClick={() => navigate('/signup')}>Faça seu cadastro</S.Link>
       </S.BottomText>
     </AuthPageLayout>
   );

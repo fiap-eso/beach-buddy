@@ -1,9 +1,12 @@
+import { useNavigate } from 'react-router-dom';
 import logo from '../../assets/logo_bb.svg';
 
 import * as S from './styles';
 import { AuthPageLayout } from '../../components/authPageLayout';
 
 export function FinishAccountPage() {
+  const navigate = useNavigate();
+
   return (
     <AuthPageLayout>
       <S.Logo src={logo} />
@@ -19,9 +22,9 @@ export function FinishAccountPage() {
         style={{
           alignItems: 'stretch'
         }}>
-        <S.Button>Procurar praias</S.Button>
+        <S.Button onClick={() => navigate('/')}>Procurar praias</S.Button>
 
-        <S.Link>Deixar para mais tarde</S.Link>
+        <S.Link onClick={() => navigate('/')}>Deixar para mais tarde</S.Link>
       </S.Row>
 
       <S.Stepper>

@@ -63,6 +63,8 @@ export const Link = styled.span`
   font-size: 0.8rem;
   font-weight: 400;
   text-decoration-line: underline;
+
+  cursor: pointer;
 `;
 
 export const Button = styled.button`
