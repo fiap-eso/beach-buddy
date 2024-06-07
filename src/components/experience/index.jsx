@@ -1,8 +1,12 @@
+import { useNavigate } from 'react-router-dom';
 import * as S from './styles';
 
-export function Experience({ title, local, date, participants, imageUrl }) {
+export function Experience({ id, title, local, date, participants, imageUrl }) {
+  const navigate = useNavigate();
+
   return (
     <S.Wrapper
+      onClick={() => navigate(`/experiences/${id}`)}
       style={{
         backgroundImage: `url(${imageUrl})`
       }}>

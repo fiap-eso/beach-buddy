@@ -1,0 +1,66 @@
+[
+  {
+    "id": "1",
+    "name": "Limpeza Comunitária",
+    "location": "Praia grande - SP",
+    "date": "08 de julho",
+    "people": 362,
+    "imageUrl": "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Experiences/1/cover.jpg",
+    "title": "IFood Limpando as Ondas: Junte-se ao Mutirão de Limpeza da Praia Grande",
+    "description": "Junte-se a nós em um dia épico de cuidado com o meio ambiente e diversão na Praia Grande! Em parceria com o iFood, estamos organizando um Mutirão de Limpeza onde você pode fazer a diferença enquanto se diverte. Junte-se a outros amantes da praia e da natureza para limpar as areias e as ondas que tanto amamos.//Além da gratificante sensação de contribuir para um planeta mais limpo, há também prêmios incríveis para os participantes mais dedicados! Desde vouchers de desconto exclusivos do iFood até kits de praia recheados de surpresas, há algo para todos os participantes.//Traga sua energia, sua vontade de ajudar e seu amor pelo mar! Juntos, vamos mostrar como pequenas ações podem causar um grande impacto. Vamos fazer das praias um lugar ainda mais bonito para todos. Contamos com você!",
+    "awards": [
+      {
+        "name": "Squeeze do Evento",
+        "imageUrl": "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Experiences/1/award_1.png"
+      },
+      {
+        "name": "Camiseta do Evento",
+        "imageUrl": "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Experiences/1/award_2.jpg"
+      },
+      {
+        "name": "R$50,00 no Ifood",
+        "imageUrl": "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Experiences/1/award_3.jpg"
+      },
+      {
+        "name": "25% de desconto na pousada das flores",
+        "imageUrl": "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Experiences/1/award_4.jpg"
+      }
+    ],
+    "details": [
+      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Experiences/1/details_1.jpg",
+      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Experiences/1/details_2.jpg"
+    ]
+  },
+  {
+    "id": "2",
+    "name": "McClean Waves",
+    "location": "Ubatuba - SP",
+    "date": "01 de setembro",
+    "people": 1423,
+    "imageUrl": "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Experiences/2/cover.jpg",
+    "title": "McClean Waves: Mutirão de Limpeza de Ubatuba com o Patrocínio do McDonald's",
+    "description": "Venha se juntar a nós para um dia especial de preservação da natureza e diversão em Ubatuba! Em parceria com o McDonald's, estamos promovendo o McClean Waves, um Mutirão de Limpeza para cuidar das nossas praias.//Convide seus amigos e familiares para participar deste evento inspirador. Enquanto limpamos a areia e as ondas, também estaremos promovendo um ambiente saudável para todos nós desfrutarmos.//E as boas notícias não param por aí! Todos os participantes terão a chance de ganhar prêmios emocionantes. Desde refeições gratuitas no McDonald's até brindes exclusivos, há algo especial reservado para cada pessoa que se juntar a nós nesta missão de limpeza.//Traga seu entusiasmo, sua disposição para ajudar e sua paixão pelo meio ambiente! Juntos, vamos mostrar como pequenas ações podem ter um grande impacto. Vamos tornar nossas praias ainda mais bonitas e seguras para todos. Estamos contando com você!",
+    "awards": [
+      {
+        "name": "Squeeze do Evento",
+        "imageUrl": "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Experiences/2/award_1.png"
+      },
+      {
+        "name": "Camiseta do Evento",
+        "imageUrl": "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Experiences/2/award_2.jpg"
+      },
+      {
+        "name": "Combo no mc",
+        "imageUrl": "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Experiences/2/award_3.jpg"
+      },
+      {
+        "name": "25% de desconto na pousada da luz",
+        "imageUrl": "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Experiences/2/award_4.jpg"
+      }
+    ],
+    "details": [
+      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Experiences/2/details_1.jpg",
+      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Experiences/2/details_2.jpg"
+    ]
+  }
+]
