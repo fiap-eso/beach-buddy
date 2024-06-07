@@ -5,6 +5,7 @@ import { SignupPage } from '../pages/signup';
 import { FinishAccountPage } from '../pages/finishAccount';
 import { ExperiencesPage } from '../pages/experiences';
 import { ExperiencePage } from '../pages/experience';
+import { BeachPage } from '../pages/beach';
 
 export function AppRouter() {
   return (
@@ -16,6 +17,7 @@ export function AppRouter() {
         <Route path="/signup-2" exact element={<FinishAccountPage />} />
         <Route path="/experiences" exact element={<ExperiencesPage />} />
         <Route path="/experiences/:id" exact element={<ExperiencePage />} />
+        <Route path="/beaches/:id" exact element={<BeachPage />} />
         <Route path="*" element={<h1>Erro</h1>} />
       </Routes>
     </BrowserRouter>
