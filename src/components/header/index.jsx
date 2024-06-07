@@ -2,6 +2,7 @@ import { useNavigate } from 'react-router-dom';
 import logo from '../../assets/logo_h_color.svg';
 
 import * as S from './styles';
+import { Profile } from '../profile';
 
 export function Header({ active }) {
   const navigate = useNavigate();
@@ -21,6 +22,7 @@ export function Header({ active }) {
 
       <S.Side>
         <S.Text>Vire parceiro do Beach Buddy</S.Text>
+        <Profile />
       </S.Side>
     </S.Wrapper>
   );

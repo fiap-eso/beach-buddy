@@ -25,7 +25,11 @@ export const Link = styled.span`
   cursor: pointer;
 `;
 
-export const Side = styled.div``;
+export const Side = styled.div`
+  display: flex;
+  align-items: center;
+  gap: 1.6rem;
+`;
 
 export const Text = styled.span`
   color: #111;
