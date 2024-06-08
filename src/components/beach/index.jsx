@@ -17,7 +17,7 @@ export function Beach({ id, name, location, subtitle, rating, images, isFavorite
           backgroundImage: `url(${images[active]})`
         }}>
         <S.Header>
-          {isFavorite ? <S.Headline>Preferido dos viajantes</S.Headline> : <div></div>}
+          {isFavorite ? <S.Headline>Preferido dos viajantes</S.Headline> : <div />}
           <S.FavIcon src={heart} />
         </S.Header>
 
