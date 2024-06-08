@@ -1,17 +1,16 @@
-# Schneider ECO
+# Beach Buddy
 
 ## Membros do grupo
 
 - Matheus Alvarenga (RM96735)
 - Barbara Marins (RM96581)
-- Heloisa Ridolfi (RM96772)
+- Lucas Benedetti Silva (RM96671)
 - Ana Luiza do Nascimento (RM96775)
 - Luana Batista de Oliveira (RM97024)
 
 ## Links
 
 - Github: https://github.com/fiap-eso/beach-buddy
-- Video Pitch: https://youtu.be/nnsXNaaj6b8
 
 ## Tutorial para rodar o projeto
 
