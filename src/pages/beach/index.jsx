@@ -41,24 +41,12 @@ export function BeachPage() {
         </S.Row>
 
         <S.ImagesWrapper>
-          <S.BigImage src="https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/big.jpg" />
-          <S.SmallImage
-            src="https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_1.jpg"
-            style={{ gridColumn: '3 / 4', gridRow: '1 / 2' }}
-          />
-          <S.SmallImage
-            src="https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_2.jpg"
-            style={{ gridColumn: '4 / 5', gridRow: '1 / 2' }}
-          />
-          <S.SmallImage
-            src="https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_3.jpg"
-            style={{ gridColumn: '3 / 4', gridRow: '2 / 3' }}
-          />
-          <S.SmallImage
-            src="https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_4.jpg"
-            style={{ gridColumn: '4 / 5', gridRow: '2 / 3' }}
-          />
-          <S.MediumImage src="https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/medium.jpg" />
+          <S.BigImage src={data.images[0]} />
+          <S.SmallImage src={data.images[1]} style={{ gridColumn: '3 / 4', gridRow: '1 / 2' }} />
+          <S.SmallImage src={data.images[2]} style={{ gridColumn: '4 / 5', gridRow: '1 / 2' }} />
+          <S.SmallImage src={data.images[3]} style={{ gridColumn: '3 / 4', gridRow: '2 / 3' }} />
+          <S.SmallImage src={data.images[4]} style={{ gridColumn: '4 / 5', gridRow: '2 / 3' }} />
+          <S.MediumImage src={data.images[5]} />
 
           <S.DescriptionWrapper>
             <S.DescriptionTitle>{data.descriptionTitle}</S.DescriptionTitle>
@@ -128,7 +116,7 @@ export function BeachPage() {
               <S.PartnersTitle>Conheça nossos parceiros</S.PartnersTitle>
               <S.PartnersList>
                 {data.partners.map((p) => (
-                  <Partner title={p.name} discount={p.discount} />
+                  <Partner title={p.name} discount={p.discount} image={p.image} />
                 ))}
               </S.PartnersList>
             </S.PartnersWrapper>

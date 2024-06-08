@@ -52,15 +52,18 @@
     "partners": [
       {
         "name": "Bar do Chico",
-        "discount": "Ganhe 10% de desconto ao trazer as latas e garrafas após o consumo."
+        "discount": "Ganhe 10% de desconto ao trazer as latas e garrafas após o consumo.",
+        "image": "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/whatsapp-image-2020-07-23-at-175620.jpeg"
       },
       {
         "name": "Escola de Surf",
-        "discount": "10% de desconto em aulas de surf ao apresentar a avaliação da Praia do Tigre."
+        "discount": "10% de desconto em aulas de surf ao apresentar a avaliação da Praia do Tigre.",
+        "image": "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/surf-regras.jpg"
       },
       {
         "name": "Restaurante Pé na Areia",
-        "discount": "Oferta especial: 15% de desconto em refeições para grupos de mais de 4 pessoas."
+        "discount": "Oferta especial: 15% de desconto em refeições para grupos de mais de 4 pessoas.",
+        "image": "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/unnamed.jpg"
       }
     ]
   },
@@ -109,24 +112,27 @@
     "partners": [
       {
         "name": "Quiosque da Paz",
-        "discount": "10% de desconto em todos os petiscos ao apresentar o check-in na Praia da Paz."
+        "discount": "10% de desconto em todos os petiscos ao apresentar o check-in na Praia da Paz.",
+        "image": "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/agrio.webp"
       },
       {
         "name": "Escola de Mergulho Marinho",
-        "discount": "Oferta especial: 15% de desconto em cursos de mergulho para iniciantes."
+        "discount": "Oferta especial: 15% de desconto em cursos de mergulho para iniciantes.",
+        "image": "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/Mergulho-para-iniciantes-tudo-que-voce-precisa-saber-scaled.webp"
       },
       {
         "name": "Pousada da Paz",
-        "discount": "Reserve 3 noites e ganhe a 4ª de cortesia."
+        "discount": "Reserve 3 noites e ganhe a 4ª de cortesia.",
+        "image": "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/IMG_5349-1024x683.jpg"
       }
     ],
     "images": [
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/big.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_1.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_2.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_3.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_4.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/medium.jpg"
+      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/2/1.jpg",
+      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/roberto-nickson-5XYhIEgh48M-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/anna-sullivan-aG9b5Jx8dO0-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/caleb-jones-SA07zbb1Tt0-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/shea-rouda-Ete0zMKPWys-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/annie-spratt-MwxZTqG6cUw-unsplash.jpg"
     ]
   },
   {
@@ -137,7 +143,7 @@
     "country": "Brasil",
     "subtitle": "Um refúgio tranquilo no litoral baiano",
     "rating": 4.92,
-    "isFavorite": true,
+    "isFavorite": false,
     "descriptionTitle": "Um destino de paz e beleza natural",
     "description": "A Praia da Serenidade, localizada em Trancoso, BA, Brasil, é conhecida por ser um refúgio tranquilo no litoral baiano. Com suas águas calmas e areias douradas, é o local perfeito para relaxar e aproveitar o contato com a natureza. A praia oferece uma atmosfera serena e paisagens deslumbrantes, ideais para quem busca paz e tranquilidade.",
     "ratings": {
@@ -174,24 +180,27 @@
     "partners": [
       {
         "name": "Restaurante Mar Azul",
-        "discount": "10% de desconto em todas as refeições ao apresentar o check-in na Praia da Serenidade."
+        "discount": "10% de desconto em todas as refeições ao apresentar o check-in na Praia da Serenidade.",
+        "image": "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/unnamed.jpg"
       },
       {
         "name": "Escola de Stand Up Paddle",
-        "discount": "Oferta especial: 15% de desconto em aulas de stand up paddle para iniciantes."
+        "discount": "Oferta especial: 15% de desconto em aulas de stand up paddle para iniciantes.",
+        "image": "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/Blog_-_SUP_Web.webp"
       },
       {
         "name": "Hotel da Praia",
-        "discount": "Reserve 4 noites e ganhe a 5ª de cortesia."
+        "discount": "Reserve 4 noites e ganhe a 5ª de cortesia.",
+        "image": "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/Pousada-Praia-Do-Imbassai-Exterior.jpeg"
       }
     ],
     "images": [
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/big.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_1.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_2.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_3.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_4.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/medium.jpg"
+      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/3/1.jpg",
+      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/wendi-stern-T-kJSap4dYQ-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/john-michael-wilyat-D4dHHhF-y4g-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/shea-rouda-Ete0zMKPWys-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/anton-mishin-o2YhIPvpA2g-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/logan-easterling-RewXAL6d658-unsplash.jpg"
     ]
   },
   {
@@ -239,24 +248,27 @@
     "partners": [
       {
         "name": "Quiosque do Sol",
-        "discount": "10% de desconto em todos os petiscos ao apresentar o check-in na Praia do Sol."
+        "discount": "10% de desconto em todos os petiscos ao apresentar o check-in na Praia do Sol.",
+        "image": "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/whatsapp-image-2020-07-23-at-175620.jpeg"
       },
       {
         "name": "Escola de Kitesurf",
-        "discount": "Oferta especial: 15% de desconto em aulas de kitesurf para iniciantes."
+        "discount": "Oferta especial: 15% de desconto em aulas de kitesurf para iniciantes.",
+        "image": "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/Blog_-_SUP_Web.webp"
       },
       {
         "name": "Pousada Sol Nascente",
-        "discount": "Reserve 5 noites e ganhe a 6ª de cortesia."
+        "discount": "Reserve 5 noites e ganhe a 6ª de cortesia.",
+        "image": "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/IMG_5349-1024x683.jpg"
       }
     ],
     "images": [
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/big.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_1.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_2.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_3.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_4.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/medium.jpg"
+      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/4/1.jpg",
+      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/roberto-nickson-5XYhIEgh48M-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/logan-easterling-RewXAL6d658-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/caleb-jones-SA07zbb1Tt0-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/john-michael-wilyat-J-iQ_50YcEs-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/daniel-dorfer-jcvBM0CZUNw-unsplash.jpg"
     ]
   },
   {
@@ -297,24 +309,27 @@
     "partners": [
       {
         "name": "Restaurante Maré Alta",
-        "discount": "10% de desconto em todas as refeições ao apresentar o check-in na Praia dos Coqueiros."
+        "discount": "10% de desconto em todas as refeições ao apresentar o check-in na Praia dos Coqueiros.",
+        "image": "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/unnamed.jpg"
       },
       {
         "name": "Escola de Mergulho Coral Vivo",
-        "discount": "Oferta especial: 15% de desconto em cursos de mergulho para iniciantes."
+        "discount": "Oferta especial: 15% de desconto em cursos de mergulho para iniciantes.",
+        "image": "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/Mergulho-para-iniciantes-tudo-que-voce-precisa-saber-scaled.webp"
       },
       {
         "name": "Hotel Paraíso Tropical",
-        "discount": "Reserve 4 noites e ganhe a 5ª de cortesia."
+        "discount": "Reserve 4 noites e ganhe a 5ª de cortesia.",
+        "image": "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/Pousada-Praia-Do-Imbassai-Exterior.jpeg"
       }
     ],
     "images": [
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/big.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_1.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_2.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_3.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_4.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/medium.jpg"
+      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/5/1.jpg",
+      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/joel-mott-hVdQfUA2asA-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/caleb-jones-SA07zbb1Tt0-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/annie-spratt-MwxZTqG6cUw-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/nattu-adnan-c0d1MWUpGiU-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/andre-frueh-lPWXQlvgRtI-unsplash.jpg"
     ]
   },
   {
@@ -362,24 +377,27 @@
     "partners": [
       {
         "name": "Quiosque do Sol",
-        "discount": "10% de desconto em todos os petiscos ao apresentar o check-in na Praia do Sol."
+        "discount": "10% de desconto em todos os petiscos ao apresentar o check-in na Praia do Sol.",
+        "image": "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/agrio.webp"
       },
       {
         "name": "Escola de Kitesurf",
-        "discount": "Oferta especial: 15% de desconto em aulas de kitesurf para iniciantes."
+        "discount": "Oferta especial: 15% de desconto em aulas de kitesurf para iniciantes.",
+        "image": "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/surf-regras.jpg"
       },
       {
         "name": "Pousada Sol Nascente",
-        "discount": "Reserve 5 noites e ganhe a 6ª de cortesia."
+        "discount": "Reserve 5 noites e ganhe a 6ª de cortesia.",
+        "image": "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/Pousada-Praia-Do-Imbassai-Exterior.jpeg"
       }
     ],
     "images": [
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/big.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_1.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_2.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_3.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_4.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/medium.jpg"
+      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/6/1.jpg",
+      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/wendi-stern-T-kJSap4dYQ-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/annie-spratt-MwxZTqG6cUw-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/nattu-adnan-c0d1MWUpGiU-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/daniel-dorfer-jcvBM0CZUNw-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/caleb-jones-SA07zbb1Tt0-unsplash.jpg"
     ]
   },
   {
@@ -390,7 +408,7 @@
     "country": "Brasil",
     "subtitle": "Um santuário marinho para tartarugas",
     "rating": 4.95,
-    "isFavorite": true,
+    "isFavorite": false,
     "descriptionTitle": "Beleza natural preservada",
     "description": "Localizada em Fernando de Noronha, PE, Brasil, a Praia das Tartarugas é conhecida por ser um santuário marinho para tartarugas. Com suas águas cristalinas e vida marinha diversificada, é o local ideal para quem busca mergulhar e explorar a natureza. Além disso, a praia oferece uma atmosfera tranquila e paisagens deslumbrantes.",
     "ratings": {
@@ -420,24 +438,27 @@
     "partners": [
       {
         "name": "Restaurante Marítimo",
-        "discount": "10% de desconto em todas as refeições ao apresentar o check-in na Praia das Tartarugas."
+        "discount": "10% de desconto em todas as refeições ao apresentar o check-in na Praia das Tartarugas.",
+        "image": "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/unnamed.jpg"
       },
       {
         "name": "Passeios de Mergulho Aquamar",
-        "discount": "Oferta especial: 15% de desconto em passeios de mergulho para explorar o santuário marinho."
+        "discount": "Oferta especial: 15% de desconto em passeios de mergulho para explorar o santuário marinho.",
+        "image": "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/Mergulho-para-iniciantes-tudo-que-voce-precisa-saber-scaled.webp"
       },
       {
         "name": "Pousada das Tartarugas",
-        "discount": "Reserve 4 noites e ganhe a 5ª de cortesia."
+        "discount": "Reserve 4 noites e ganhe a 5ª de cortesia.",
+        "image": "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/Pousada-Praia-Do-Imbassai-Exterior.jpeg"
       }
     ],
     "images": [
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/big.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_1.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_2.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_3.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_4.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/medium.jpg"
+      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/7/1.jpg",
+      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/caleb-jones-3igHRe7QTdg-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/daniel-dorfer-jcvBM0CZUNw-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/nattu-adnan-c0d1MWUpGiU-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/logan-easterling-RewXAL6d658-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/john-michael-wilyat-D4dHHhF-y4g-unsplash.jpg"
     ]
   },
   {
@@ -478,24 +499,27 @@
     "partners": [
       {
         "name": "Restaurante Lua Cheia",
-        "discount": "10% de desconto em um jantar romântico à luz de velas ao apresentar o check-in na Praia dos Amores."
+        "discount": "10% de desconto em um jantar romântico à luz de velas ao apresentar o check-in na Praia dos Amores.",
+        "image": "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/unnamed.jpg"
       },
       {
         "name": "Passeios de Veleiro Love Boat",
-        "discount": "Oferta especial: 15% de desconto em passeios de veleiro privativo para casais."
+        "discount": "Oferta especial: 15% de desconto em passeios de veleiro privativo para casais.",
+        "image": "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/veleiro-atrevida-5.bx_.jpg"
       },
       {
         "name": "Pousada Amor Perfeito",
-        "discount": "Reserve 3 noites e ganhe a 4ª de cortesia."
+        "discount": "Reserve 3 noites e ganhe a 4ª de cortesia.",
+        "image": "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/Pousada-Praia-Do-Imbassai-Exterior.jpeg"
       }
     ],
     "images": [
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/big.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_1.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_2.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_3.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_4.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/medium.jpg"
+      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/8/1.jpg",
+      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/caleb-jones-SA07zbb1Tt0-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/logan-easterling-RewXAL6d658-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/joel-mott-hVdQfUA2asA-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/nattu-adnan-c0d1MWUpGiU-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/annie-spratt-MwxZTqG6cUw-unsplash.jpg"
     ]
   },
   {
@@ -506,7 +530,7 @@
     "country": "Brasil",
     "subtitle": "Um refúgio de tranquilidade e beleza natural",
     "rating": 4.90,
-    "isFavorite": true,
+    "isFavorite": false,
     "descriptionTitle": "Um paraíso escondido na costa baiana",
     "description": "Localizada em Itacaré, BA, Brasil, a Praia da Esperança é um verdadeiro refúgio de tranquilidade e beleza natural. Com suas águas cristalinas e vegetação exuberante, é o local ideal para quem busca se reconectar com a natureza. A praia oferece uma atmosfera serena e paisagens deslumbrantes, ideais para relaxar e recarregar as energias.",
     "ratings": {
@@ -536,24 +560,27 @@
     "partners": [
       {
         "name": "Restaurante Sol e Mar",
-        "discount": "10% de desconto em todas as refeições ao apresentar o check-in na Praia da Esperança."
+        "discount": "10% de desconto em todas as refeições ao apresentar o check-in na Praia da Esperança.",
+        "image": "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/unnamed.jpg"
       },
       {
         "name": "Passeios de Caiaque Ecoventura",
-        "discount": "Oferta especial: 15% de desconto em passeios de caiaque para explorar os manguezais locais."
+        "discount": "Oferta especial: 15% de desconto em passeios de caiaque para explorar os manguezais locais.",
+        "image": "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/veleiro-atrevida-5.bx_.jpg"
       },
       {
         "name": "Pousada Esperança do Mar",
-        "discount": "Reserve 4 noites e ganhe a 5ª de cortesia."
+        "discount": "Reserve 4 noites e ganhe a 5ª de cortesia.",
+        "image": "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/IMG_5349-1024x683.jpg"
       }
     ],
     "images": [
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/big.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_1.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_2.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_3.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_4.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/medium.jpg"
+      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/9/1.jpg",
+      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/damian-barczak-qjpH_iJ07yg-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/annie-spratt-MwxZTqG6cUw-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/nattu-adnan-c0d1MWUpGiU-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/annie-spratt-xSHTizfq3Mg-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/andre-frueh-lPWXQlvgRtI-unsplash.jpg"
     ]
   },
   {
@@ -564,7 +591,7 @@
     "country": "Brasil",
     "subtitle": "Um paraíso tropical com águas cristalinas",
     "rating": 4.85,
-    "isFavorite": true,
+    "isFavorite": false,
     "descriptionTitle": "Um destino de férias inesquecíveis",
     "description": "Localizada em Bombinhas, SC, Brasil, a Praia do Sonho é conhecida por suas águas cristalinas e areias brancas. Com sua atmosfera descontraída e paisagens deslumbrantes, é o local perfeito para férias em família ou com amigos. A praia oferece diversas opções de lazer, como mergulho, trilhas e passeios de barco.",
     "ratings": {
@@ -594,24 +621,27 @@
     "partners": [
       {
         "name": "Quiosque do Sonho",
-        "discount": "10% de desconto em todos os petiscos ao apresentar o check-in na Praia do Sonho."
+        "discount": "10% de desconto em todos os petiscos ao apresentar o check-in na Praia do Sonho.",
+        "image": "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/whatsapp-image-2020-07-23-at-175620.jpeg"
       },
       {
         "name": "Passeios de Barco Mar de Emoções",
-        "discount": "Oferta especial: 15% de desconto em passeios de barco para explorar as ilhas da região."
+        "discount": "Oferta especial: 15% de desconto em passeios de barco para explorar as ilhas da região.",
+        "image": "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/veleiro-atrevida-5.bx_.jpg"
       },
       {
         "name": "Hotel Sonhos do Mar",
-        "discount": "Reserve 4 noites e ganhe a 5ª de cortesia."
+        "discount": "Reserve 4 noites e ganhe a 5ª de cortesia.",
+        "image": "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/IMG_5349-1024x683.jpg"
       }
     ],
     "images": [
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/big.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_1.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_2.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_3.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_4.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/medium.jpg"
+      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/10/1.jpg",
+      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/anna-sullivan-aG9b5Jx8dO0-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/andre-frueh-lPWXQlvgRtI-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/annie-spratt-MwxZTqG6cUw-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/roberto-nickson-HmieZw0YOC0-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/tj-holowaychuk-KBoWO5yV668-unsplash.jpg"
     ]
   },
   {
@@ -622,7 +652,7 @@
     "country": "Brasil",
     "subtitle": "Um paraíso preservado no litoral baiano",
     "rating": 4.88,
-    "isFavorite": true,
+    "isFavorite": false,
     "descriptionTitle": "Beleza natural intocada",
     "description": "Localizada na Ilha de Boipeba, BA, Brasil, a Praia do Encanto é conhecida por sua beleza natural intocada e atmosfera tranquila. Com suas águas cristalinas e areias brancas, é o local ideal para quem busca relaxar e aproveitar a natureza. A praia oferece uma experiência autêntica e paisagens deslumbrantes, ideais para quem deseja se desconectar do mundo.",
     "ratings": {
@@ -652,24 +682,27 @@
     "partners": [
       {
         "name": "Restaurante Pé na Areia",
-        "discount": "10% de desconto em todas as refeições ao apresentar o check-in na Praia do Encanto."
+        "discount": "10% de desconto em todas as refeições ao apresentar o check-in na Praia do Encanto.",
+        "image": "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/whatsapp-image-2020-07-23-at-175620.jpeg"
       },
       {
         "name": "Passeios de Caiaque Ecoventura",
-        "discount": "Oferta especial: 15% de desconto em passeios de caiaque para explorar os manguezais locais."
+        "discount": "Oferta especial: 15% de desconto em passeios de caiaque para explorar os manguezais locais.",
+        "image": "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/veleiro-atrevida-5.bx_.jpg"
       },
       {
         "name": "Pousada Encanto do Mar",
-        "discount": "Reserve 4 noites e ganhe a 5ª de cortesia."
+        "discount": "Reserve 4 noites e ganhe a 5ª de cortesia.",
+        "image": "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/Pousada-Praia-Do-Imbassai-Exterior.jpeg"
       }
     ],
     "images": [
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/big.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_1.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_2.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_3.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_4.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/medium.jpg"
+      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/11/1.jpg",
+      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/jordan-mcqueen-NlJXXhE9zbk-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/damian-barczak-qjpH_iJ07yg-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/logan-easterling-RewXAL6d658-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/caleb-jones-3igHRe7QTdg-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/john-michael-wilyat-D4dHHhF-y4g-unsplash.jpg"
     ]
   },
   {
@@ -710,24 +743,27 @@
     "partners": [
       {
         "name": "Restaurante Sol & Mar",
-        "discount": "10% de desconto em todas as refeições ao apresentar o check-in na Praia do Farol."
+        "discount": "10% de desconto em todas as refeições ao apresentar o check-in na Praia do Farol.",
+        "image": "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/unnamed.jpg"
       },
       {
         "name": "Passeios de Barco Mar Azul",
-        "discount": "Oferta especial: 15% de desconto em passeios de barco para explorar a região."
+        "discount": "Oferta especial: 15% de desconto em passeios de barco para explorar a região.",
+        "image": "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/veleiro-atrevida-5.bx_.jpg"
       },
       {
         "name": "Pousada Farol do Cabo",
-        "discount": "Reserve 4 noites e ganhe a 5ª de cortesia."
+        "discount": "Reserve 4 noites e ganhe a 5ª de cortesia.",
+        "image": "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/Pousada-Praia-Do-Imbassai-Exterior.jpeg"
       }
     ],
     "images": [
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/big.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_1.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_2.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_3.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_4.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/medium.jpg"
+      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/12/1.jpg",
+      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/john-michael-wilyat-J-iQ_50YcEs-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/roberto-nickson-5XYhIEgh48M-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/logan-easterling-RewXAL6d658-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/jordan-mcqueen-NlJXXhE9zbk-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/tj-holowaychuk-KBoWO5yV668-unsplash.jpg"
     ]
   },
   {
@@ -738,7 +774,7 @@
     "country": "Brasil",
     "subtitle": "Uma joia escondida no litoral baiano",
     "rating": 4.90,
-    "isFavorite": true,
+    "isFavorite": false,
     "descriptionTitle": "Beleza natural deslumbrante",
     "description": "Localizada em Trancoso, BA, Brasil, a Praia do Espelho é uma verdadeira joia escondida no litoral baiano. Com suas falésias coloridas, águas cristalinas e areias douradas, é o local perfeito para quem busca beleza natural e tranquilidade. A praia oferece uma atmosfera paradisíaca e paisagens deslumbrantes, ideais para relaxar e aproveitar o melhor que a natureza tem a oferecer.",
     "ratings": {
@@ -768,24 +804,27 @@
     "partners": [
       {
         "name": "Restaurante Espelho D'Água",
-        "discount": "10% de desconto em todas as refeições ao apresentar o check-in na Praia do Espelho."
+        "discount": "10% de desconto em todas as refeições ao apresentar o check-in na Praia do Espelho.",
+        "image": "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/unnamed.jpg"
       },
       {
         "name": "Passeios de Quadriciclo Aventura",
-        "discount": "Oferta especial: 15% de desconto em passeios de quadriciclo pelas trilhas da região."
+        "discount": "Oferta especial: 15% de desconto em passeios de quadriciclo pelas trilhas da região.",
+        "image": "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/TRX_420_FourTrax_banner_desktop_2022.jpg"
       },
       {
         "name": "Pousada Charme do Espelho",
-        "discount": "Reserve 4 noites e ganhe a 5ª de cortesia."
+        "discount": "Reserve 4 noites e ganhe a 5ª de cortesia.",
+        "image": "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/Pousada-Praia-Do-Imbassai-Exterior.jpeg"
       }
     ],
     "images": [
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/big.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_1.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_2.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_3.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_4.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/medium.jpg"
+      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/13/1.jpg",
+      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/andre-frueh-lPWXQlvgRtI-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/camille-minouflet-ggkrG9EfxXM-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/john-michael-wilyat-J-iQ_50YcEs-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/joel-mott-ImHttRUM2jE-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/tj-holowaychuk-KBoWO5yV668-unsplash.jpg"
     ]
   },
   {
@@ -826,24 +865,27 @@
     "partners": [
       {
         "name": "Bar da Praia",
-        "discount": "10% de desconto em todas as refeições ao apresentar o check-in na Praia da Pipa."
+        "discount": "10% de desconto em todas as refeições ao apresentar o check-in na Praia da Pipa.",
+        "image": "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/agrio.webp"
       },
       {
         "name": "Passeios de Buggy Adventure",
-        "discount": "Oferta especial: 15% de desconto em passeios de buggy pelas dunas e praias da região."
+        "discount": "Oferta especial: 15% de desconto em passeios de buggy pelas dunas e praias da região.",
+        "image": "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/TRX_420_FourTrax_banner_desktop_2022.jpg"
       },
       {
         "name": "Pousada Charme da Pipa",
-        "discount": "Reserve 4 noites e ganhe a 5ª de cortesia."
+        "discount": "Reserve 4 noites e ganhe a 5ª de cortesia.",
+        "image": "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/Pousada-Praia-Do-Imbassai-Exterior.jpeg"
       }
     ],
     "images": [
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/big.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_1.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_2.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_3.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_4.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/medium.jpg"
+      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/14/1.jpg",
+      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/wendi-stern-T-kJSap4dYQ-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/nattu-adnan-c0d1MWUpGiU-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/roberto-nickson-5XYhIEgh48M-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/ronan-furuta-hGb5kXm5soM-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/anton-mishin-o2YhIPvpA2g-unsplash.jpg"
     ]
   },
   {
@@ -884,24 +926,27 @@
     "partners": [
       {
         "name": "Restaurante Maré Alta",
-        "discount": "10% de desconto em todas as refeições ao apresentar o check-in na Praia de Jericoacoara."
+        "discount": "10% de desconto em todas as refeições ao apresentar o check-in na Praia de Jericoacoara.",
+        "image": "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/unnamed.jpg"
       },
       {
         "name": "Escola de Kitesurf Vento Bom",
-        "discount": "Oferta especial: 15% de desconto em aulas de kitesurf para iniciantes."
+        "discount": "Oferta especial: 15% de desconto em aulas de kitesurf para iniciantes.",
+        "image": "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/Blog_-_SUP_Web.webp"
       },
       {
         "name": "Pousada Pé na Areia",
-        "discount": "Reserve 4 noites e ganhe a 5ª de cortesia."
+        "discount": "Reserve 4 noites e ganhe a 5ª de cortesia.",
+        "image": "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/IMG_5349-1024x683.jpg"
       }
     ],
     "images": [
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/big.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_1.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_2.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_3.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_4.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/medium.jpg"
+      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/15/1.jpg",
+      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/camille-minouflet-ggkrG9EfxXM-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/caleb-jones-SA07zbb1Tt0-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/annie-spratt-xSHTizfq3Mg-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/daniel-dorfer-jcvBM0CZUNw-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/roberto-nickson-HmieZw0YOC0-unsplash.jpg"
     ]
   },
   {
@@ -912,7 +957,7 @@
     "country": "Brasil",
     "subtitle": "Beleza natural e história",
     "rating": 4.82,
-    "isFavorite": true,
+    "isFavorite": false,
     "descriptionTitle": "Um destino encantador no litoral baiano",
     "description": "Localizada em Mata de São João, BA, Brasil, a Praia do Forte é conhecida por sua beleza natural exuberante e sua rica história. Além das belas praias de areias brancas e águas cristalinas, a região abriga o Projeto Tamar, dedicado à preservação das tartarugas marinhas. Também é possível visitar o Castelo Garcia D'Ávila, uma fortaleza histórica construída no século XVI. A vila de Praia do Forte oferece uma atmosfera agradável, com ótimas opções de restaurantes e lojas.",
     "ratings": {
@@ -942,24 +987,27 @@
     "partners": [
       {
         "name": "Restaurante Maré Alta",
-        "discount": "10% de desconto em todas as refeições ao apresentar o check-in na Praia do Forte."
+        "discount": "10% de desconto em todas as refeições ao apresentar o check-in na Praia do Forte.",
+        "image": "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/unnamed.jpg"
       },
       {
         "name": "Projeto Tamar",
-        "discount": "Entrada gratuita na visita ao Projeto Tamar ao apresentar o check-in na Praia do Forte."
+        "discount": "Entrada gratuita na visita ao Projeto Tamar ao apresentar o check-in na Praia do Forte.",
+        "image": "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/tartaruga-cabecuda-474751855.jpg"
       },
       {
         "name": "Pousada Fortaleza",
-        "discount": "Reserve 4 noites e ganhe a 5ª de cortesia."
+        "discount": "Reserve 4 noites e ganhe a 5ª de cortesia.",
+        "image": "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/Pousada-Praia-Do-Imbassai-Exterior.jpeg"
       }
     ],
     "images": [
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/big.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_1.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_2.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_3.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/small_4.jpg",
-      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/1/medium.jpg"
+      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/16/1.jpg",
+      "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/shea-rouda-Ete0zMKPWys-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/wendi-stern-T-kJSap4dYQ-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/joel-mott-hVdQfUA2asA-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/annie-spratt-xSHTizfq3Mg-unsplash.jpg",
+  "https://sonalmat.sirv.com/FIAP/Beach%20Buddy/Beaches/random/roberto-nickson-HmieZw0YOC0-unsplash.jpg"
     ]
   }  
 ]

@@ -59,6 +59,7 @@ export const BigImage = styled.img`
   grid-column: 1 / 3;
   grid-row: 1 / 3;
   aspect-ratio: 1 / 1;
+  object-fit: cover;
 
   border-radius: 8px;
 `;
@@ -66,15 +67,18 @@ export const BigImage = styled.img`
 export const SmallImage = styled.img`
   width: 100%;
   aspect-ratio: 1 / 1;
+  object-fit: cover;
 
   border-radius: 8px;
 `;
 
 export const MediumImage = styled.img`
   width: 100%;
+  height: 26rem;
 
   grid-column: 3 / 5;
   grid-row: 3 / 4;
+  object-fit: cover;
 
   border-radius: 8px;
 `;
